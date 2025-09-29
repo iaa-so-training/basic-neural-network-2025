@@ -1,5 +1,5 @@
 # Severo Ochoa Basic Neural Networks 2025
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaa-so-training/basic-neural-network-2023/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaa-so-training/basic-neural-network-2025/HEAD)
 
 SO Basics of Neural Networks 2025 school at the IAA-CSIC
 
@@ -38,7 +38,7 @@ Hands-on lab: Use of ImageDataGenerators combined with realistic folder structur
 
 There will be coffee breaks available for all participants during the sessions.
 
-### Session 4 (9:00 → 13:00) Evaluation
+### Session 4 (14:00 → 17:00) Evaluation
 
 
 ## Installation
