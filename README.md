@@ -34,11 +34,19 @@ Hands-on lab. Build from scratch a basic CNN for image classification using the 
 ### Session 3 (9:00 → 13:00) Practical considerations in real-world CNNs
 
 Overfitting in CNNs. Techniques for overfitting reduction: data augmentation and drop-out. Types of data augmentation. Drop-out rates. Transfer learning: concept and usage. Top Pre-Trained models for image classification. Handling large image datasets: ImageDataGenerators.
-Hands-on lab: Use of ImageDataGenerators combined with realistic folder structures in image classification problems. Inclusion of data augmentation in our preprocessing pipelines. Add drop-out layers to the CNN design in session 2. Use of transfer learning in a real situation.
+Hands-on lab: Use of ImageDataGenerators combined with realistic folder structures in image classification problems. Inclusion of data augmentation in our preprocessing pipelines. Add drop-out layers to the CNN design in session 2.
 
 There will be coffee breaks available for all participants during the sessions.
 
 ### Session 4 (14:00 → 17:00) Evaluation
+
+The challenge of imbalanced datasets and the misleading nature of the accuracy metric. Advanced evaluation metrics for classification: confusion matrix, precision, recall, and F1-score. Techniques for handling class imbalance: augmented upsampling, class weights and focal loss.
+
+Hands-on lab: Applying class weights and augmented upsampling to the Galaxy10 classification problem. Evaluating the model's performance using precision, recall, and a confusion matrix to analyze per-class results.
+
+
+
+
 
 
 ## Installation
