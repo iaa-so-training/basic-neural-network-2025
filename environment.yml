@@ -1,6 +1,6 @@
 name: iaa_nn
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.12.12
   - scikit-learn=1.6.1
