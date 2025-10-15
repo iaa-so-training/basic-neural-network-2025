@@ -1,14 +1,14 @@
 name: iaa_nn
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.12.12
-  - tensorflow=2.19.0
   - scikit-learn=1.6.1
   - matplotlib=3.10.0
   - pandas=2.2.2
   - notebook=6.5.7
   - seaborn=0.13.2
-
-
-
+  - jupyterlab=4.4.9
+  - pip
+  - pip:
+      - tensorflow==2.19.0
